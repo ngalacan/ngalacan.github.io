@@ -33,6 +33,212 @@
     </item>
     
     <item>
+      <title>Github</title>
+      <link>https://example.com/project/github-project/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/github-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Индивидуальный проект</title>
+      <link>https://example.com/project/personal-project-site/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/personal-project-site/</guid>
+      <description>&lt;h2 id=&#34;этапы-реализации-проекта&#34;&gt;Этапы реализации проекта:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Размещение на Github pages заготовки для персонального сайта.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Установить необходимое программное обеспечение.&lt;/li&gt;
+&lt;li&gt;Скачать шаблон темы сайта.&lt;/li&gt;
+&lt;li&gt;Разместить его на хостинге git.&lt;/li&gt;
+&lt;li&gt;Установить параметр для URLs сайта.&lt;/li&gt;
+&lt;li&gt;Разместить заготовку сайта на Github pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Добавить к сайту данные о себе.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список добавляемых данных.
+&lt;ol&gt;
+&lt;li&gt;Разместить фотографию владельца сайта.&lt;/li&gt;
+&lt;li&gt;Разместить краткое описание владельца сайта (Biography).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об интересах (Interests).&lt;/li&gt;
+&lt;li&gt;Добавить информацию от образовании (Education).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ol&gt;
+&lt;li&gt;Управление версиями. Git.&lt;/li&gt;
+&lt;li&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Добавить к сайту достижения&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список достижений.
+&lt;ol&gt;
+&lt;li&gt;Добавить информацию о навыках (Skills).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об опыте (Experience).&lt;/li&gt;
+&lt;li&gt;Добавить информацию о достижениях (Accomplishments).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ol&gt;
+&lt;li&gt;Легковесные языки разметки.&lt;/li&gt;
+&lt;li&gt;Языки разметки. LaTeX.&lt;/li&gt;
+&lt;li&gt;Язык разметки Markdown.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Добавить к сайту ссылки на научные и библиометрические ресурсы.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разместить ссылки на ресурсы&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ol&gt;
+&lt;li&gt;Оформление отчёта.&lt;/li&gt;
+&lt;li&gt;Создание презентаций.&lt;/li&gt;
+&lt;li&gt;Работа с библиографией.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Добавить с сайту все остальные элементы.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать записи для персональных проектов.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору.
+&lt;ol&gt;
+&lt;li&gt;Языки научного программирования.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6. Размещение двуязычного сайта на Github.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать поддержку английского и русского языков.&lt;/li&gt;
+&lt;li&gt;Разместить элементы сайта на обоих языках.&lt;/li&gt;
+&lt;li&gt;Разместить контент на обоих языках.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору (на двух языках).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;техническая-реализация-проекта&#34;&gt;Техническая реализация проекта&lt;/h2&gt;
+&lt;p&gt;Для реализации сайта используется генератор статических сайтов Hugo.&lt;/p&gt;
+&lt;p&gt;Общие файлы для тем Wowchemy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Репозиторий: &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/wowchemy/wowchemy-hugo-themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В качестве шаблона индивидуального сайта используется шаблон Hugo Academic Theme.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Демо-сайт: &lt;a href=&#34;https://academic-demo.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://academic-demo.netlify.app/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Репозиторий: &lt;a href=&#34;https://github.com/wowchemy/starter-hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/wowchemy/starter-hugo-academic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;индивидуальный-сайт&#34;&gt;Индивидуальный сайт&lt;/h2&gt;
+&lt;p&gt;Доступен по ссылке &lt;a href=&#34;https://ngalacan.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ngalacan.github.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчетов</title>
+      <link>https://example.com/post/report_making/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/report_making/</guid>
+      <description>&lt;h2 id=&#34;структура-отчета&#34;&gt;Структура отчета&lt;/h2&gt;
+&lt;p&gt;Согласно ГОСТ 7.32-2001, любая научно-исследовательская работа должна обязательно
+содержать следующие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;титульный лист;&lt;/li&gt;
+&lt;li&gt;реферат;&lt;/li&gt;
+&lt;li&gt;введение;&lt;/li&gt;
+&lt;li&gt;основную часть;&lt;/li&gt;
+&lt;li&gt;заключение.
+Также ГОСТ рекомендует включить в работу и такие элементы:&lt;/li&gt;
+&lt;li&gt;список исполнителей;&lt;/li&gt;
+&lt;li&gt;содержание;&lt;/li&gt;
+&lt;li&gt;нормативные ссылки;&lt;/li&gt;
+&lt;li&gt;определения;&lt;/li&gt;
+&lt;li&gt;обозначения и сокращения;&lt;/li&gt;
+&lt;li&gt;список использованных источников;&lt;/li&gt;
+&lt;li&gt;приложения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;содержание-основных-элементов-отчета&#34;&gt;Содержание основных элементов отчета&lt;/h2&gt;
+&lt;h3 id=&#34;титульный-лист&#34;&gt;Титульный лист&lt;/h3&gt;
+&lt;p&gt;Первый лист работы оформляется строго по образцу, который обычно
+приводится в методических пособиях по вашему предмету. В нем не просто требуется
+указать такие элементы, как название образовательного учреждения, вид работы
+и сведения об исполнителе, но и расположить их в строгом соответствии со стандарта-
+ми.&lt;/p&gt;
+&lt;h3 id=&#34;реферат&#34;&gt;Реферат&lt;/h3&gt;
+&lt;p&gt;Реферат фактически является кратким представлением всего вашего отчета
+и содержит ряд статистических сведений. В нем нужно указать количество частей,
+страниц работы, иллюстраций, приложений, таблиц, использованных литературных
+источников и приложений. Здесь же приводится перечень ключевых слов работы
+и собственно текст реферата. Последний подразумевает основные элементы работы
+от поставленных целей до результатов и рекомендаций по их внедрению. В практике
+вузов в отчеты по лабораторным работам реферат обычно не включают.&lt;/p&gt;
+&lt;h3 id=&#34;введение&#34;&gt;Введение&lt;/h3&gt;
+&lt;p&gt;Во введении типовой лабораторной работы обычно прописывают цели
+проводимого исследования и задачи, выполнение которых поможет достичь постав-
+ленных целей. Пишется развернутое введение с доказательством актуальности и новизны изучаемой темы. Чтобы действительно провести исследование в той области, в которой, как говорится, еще не ступала нога человека, во введении вам понадобится привести оценку современного состояния рассматриваемой проблемы и обосновать необходимость ее решения.&lt;/p&gt;
+&lt;h3 id=&#34;основная-часть&#34;&gt;Основная часть&lt;/h3&gt;
+&lt;p&gt;Основная часть. Так как в разных вузах и в разных дисциплинах существуют свои
+тонкости проведения лабораторных работ, содержание основной части подробно
+описывают в соответствующих методичках. Важно, чтобы в этом разделе работы была
+отражена ее суть, описана методика и результаты проделанной работы.
+В основной части прописывают следующие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;цели проводимого исследования;&lt;/li&gt;
+&lt;li&gt;задачи, выполнение которых поможет достичь поставленных целей;&lt;/li&gt;
+&lt;li&gt;ход работы, в котором описываются выполненные действия;&lt;/li&gt;
+&lt;li&gt;прочие разделы, предусмотренные методическими материалами по изучаемой
+дисциплине.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;заключение&#34;&gt;Заключение&lt;/h3&gt;
+&lt;p&gt;В этой части работы вам потребуется сделать выводы по полученным в ходе лабораторной работы результатам. Для этого оцените, насколько полно выполнены
+поставленные задачи. В сложных работах могут присутствовать и другие элементы,
+например, рекомендации для дальнейшего применения результатов проведённой
+работы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очередная прошедшая неделя</title>
+      <link>https://example.com/post/week4/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week4/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-очередная-неделя&#34;&gt;Как прошла очередная неделя?&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе были сделаны и сданы задания и лабораторные работы. Я виделся с друзьями, отдыхал.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>https://example.com/post/week3/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week3/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-очередная-неделя&#34;&gt;Как прошла очередная неделя?&lt;/h2&gt;
+&lt;p&gt;Неделя была похожей на все остальные. На прошедшей неделе были сделаны и сданы задания и лабораторные работы. Я виделся с друзьями, отдыхал.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/programming/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/programming/</guid>
+      <description>&lt;h2 id=&#34;научное-программирование&#34;&gt;Научное программирование&lt;/h2&gt;
+&lt;p&gt;Научное программирование - стиль программирования, ориентированный на научные расчеты.&lt;/p&gt;
+&lt;h2 id=&#34;языки&#34;&gt;Языки&lt;/h2&gt;
+&lt;h3 id=&#34;cc&#34;&gt;C/C++&lt;/h3&gt;
+&lt;p&gt;Эти языки часто занимают вершины различных рейтингов — их ценят за мощность и быстродействие. C был создан в начале 1970-х годов Деннисом Ритчи, C ++ в 1985 году разработал Бьёрн Страуструп. Сегодня два этих языка лежат в основе всего: от ОС и игр до современных научных вычислений и машинного обучения. C и C++ хорошо подходят для требовательных приложений, которым важны низкоуровневый доступ к оборудованию и производительность. Для освоения этих языков нужно время и определенные усилия.&lt;/p&gt;
+&lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
+&lt;p&gt;Java — это ООП-язык общего назначения, разработанный в 1990-х годах Джеймсом Гослингом в Sun (сейчас принадлежит Oracle) и предназначенный для компиляции в байт-код для запуска на виртуальной машине Java. К 2020 году к ним относятся практически все виды устройств — от телевизоров и игровых приставок до серверов, телефонов и даже кухонных приборов. Язык широко распространен в корпорациях и университетах, что сделало его популярным как среди начинающих программистов, так и среди опытных разработчиков.&lt;/p&gt;
+&lt;h3 id=&#34;julia&#34;&gt;Julia&lt;/h3&gt;
+&lt;p&gt;Современный язык высокого уровня, предназначенный для высокопроизводительной числовой обработки и статистического анализа. Julia разработали в 2009 году Джефф Безансон, Стефан Карпински, Вирал Б. Шах и Алан Эдельман. Это один из четырех языков, позволяющих достигать производительности суперкомпьютеров на уровне петафлопсов (наряду с C, C ++ и Fortran). Пользуется популярностью в университетах, правительствах и финансовых учреждениях.&lt;/p&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;p&gt;Python, представленные в 1991 году Гвидо ван Россумом, был задуман как хорошо читаемый язык с функциями ООП, предполагающий использование функциональных парадигм для построения чистых и хорошо организованных программ. Python пользуется поддержкой крупных платформ и применяется в самых разных сферах, в том числе в науке, интеллектуальной обработке данных, разработке систем искусственного интеллекта, компьютерной графике для художественных фильмов, облачных вычислениях, разработке игр и многих других. Python хорошо зарекомендовал себя и останется одним из наиболее востребованных инструментов в течение долгого времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Еще одна моя неделя</title>
       <link>https://example.com/post/week2/</link>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
@@ -333,27 +539,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
