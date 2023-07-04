@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Очередная прошедшая неделя</title>
+      <link>https://example.com/post/week4/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week4/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-очередная-неделя&#34;&gt;Как прошла очередная неделя?&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе были сделаны и сданы задания и лабораторные работы. Я виделся с друзьями, отдыхал.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/programming/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/programming/</guid>
+      <description>&lt;h2 id=&#34;научное-программирование&#34;&gt;Научное программирование&lt;/h2&gt;
+&lt;p&gt;Научное программирование - стиль программирования, ориентированный на научные расчеты.&lt;/p&gt;
+&lt;h2 id=&#34;языки&#34;&gt;Языки&lt;/h2&gt;
+&lt;h3 id=&#34;cc&#34;&gt;C/C++&lt;/h3&gt;
+&lt;p&gt;Эти языки часто занимают вершины различных рейтингов — их ценят за мощность и быстродействие. C был создан в начале 1970-х годов Деннисом Ритчи, C ++ в 1985 году разработал Бьёрн Страуструп. Сегодня два этих языка лежат в основе всего: от ОС и игр до современных научных вычислений и машинного обучения. C и C++ хорошо подходят для требовательных приложений, которым важны низкоуровневый доступ к оборудованию и производительность. Для освоения этих языков нужно время и определенные усилия.&lt;/p&gt;
+&lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
+&lt;p&gt;Java — это ООП-язык общего назначения, разработанный в 1990-х годах Джеймсом Гослингом в Sun (сейчас принадлежит Oracle) и предназначенный для компиляции в байт-код для запуска на виртуальной машине Java. К 2020 году к ним относятся практически все виды устройств — от телевизоров и игровых приставок до серверов, телефонов и даже кухонных приборов. Язык широко распространен в корпорациях и университетах, что сделало его популярным как среди начинающих программистов, так и среди опытных разработчиков.&lt;/p&gt;
+&lt;h3 id=&#34;julia&#34;&gt;Julia&lt;/h3&gt;
+&lt;p&gt;Современный язык высокого уровня, предназначенный для высокопроизводительной числовой обработки и статистического анализа. Julia разработали в 2009 году Джефф Безансон, Стефан Карпински, Вирал Б. Шах и Алан Эдельман. Это один из четырех языков, позволяющих достигать производительности суперкомпьютеров на уровне петафлопсов (наряду с C, C ++ и Fortran). Пользуется популярностью в университетах, правительствах и финансовых учреждениях.&lt;/p&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;p&gt;Python, представленные в 1991 году Гвидо ван Россумом, был задуман как хорошо читаемый язык с функциями ООП, предполагающий использование функциональных парадигм для построения чистых и хорошо организованных программ. Python пользуется поддержкой крупных платформ и применяется в самых разных сферах, в том числе в науке, интеллектуальной обработке данных, разработке систем искусственного интеллекта, компьютерной графике для художественных фильмов, облачных вычислениях, разработке игр и многих других. Python хорошо зарекомендовал себя и останется одним из наиболее востребованных инструментов в течение долгого времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://example.com/project/github-project/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/github-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Индивидуальный проект</title>
+      <link>https://example.com/project/personal-project-site/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/personal-project-site/</guid>
+      <description>&lt;h2 id=&#34;этапы-реализации-проекта&#34;&gt;Этапы реализации проекта:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Размещение на Github pages заготовки для персонального сайта.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Установить необходимое программное обеспечение.&lt;/li&gt;
+&lt;li&gt;Скачать шаблон темы сайта.&lt;/li&gt;
+&lt;li&gt;Разместить его на хостинге git.&lt;/li&gt;
+&lt;li&gt;Установить параметр для URLs сайта.&lt;/li&gt;
+&lt;li&gt;Разместить заготовку сайта на Github pages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Добавить к сайту данные о себе.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список добавляемых данных.
+&lt;ol&gt;
+&lt;li&gt;Разместить фотографию владельца сайта.&lt;/li&gt;
+&lt;li&gt;Разместить краткое описание владельца сайта (Biography).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об интересах (Interests).&lt;/li&gt;
+&lt;li&gt;Добавить информацию от образовании (Education).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ol&gt;
+&lt;li&gt;Управление версиями. Git.&lt;/li&gt;
+&lt;li&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Добавить к сайту достижения&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список достижений.
+&lt;ol&gt;
+&lt;li&gt;Добавить информацию о навыках (Skills).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об опыте (Experience).&lt;/li&gt;
+&lt;li&gt;Добавить информацию о достижениях (Accomplishments).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ol&gt;
+&lt;li&gt;Легковесные языки разметки.&lt;/li&gt;
+&lt;li&gt;Языки разметки. LaTeX.&lt;/li&gt;
+&lt;li&gt;Язык разметки Markdown.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Добавить к сайту ссылки на научные и библиометрические ресурсы.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разместить ссылки на ресурсы&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:
+&lt;ol&gt;
+&lt;li&gt;Оформление отчёта.&lt;/li&gt;
+&lt;li&gt;Создание презентаций.&lt;/li&gt;
+&lt;li&gt;Работа с библиографией.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Добавить с сайту все остальные элементы.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать записи для персональных проектов.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору.
+&lt;ol&gt;
+&lt;li&gt;Языки научного программирования.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6. Размещение двуязычного сайта на Github.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать поддержку английского и русского языков.&lt;/li&gt;
+&lt;li&gt;Разместить элементы сайта на обоих языках.&lt;/li&gt;
+&lt;li&gt;Разместить контент на обоих языках.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору (на двух языках).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;техническая-реализация-проекта&#34;&gt;Техническая реализация проекта&lt;/h2&gt;
+&lt;p&gt;Для реализации сайта используется генератор статических сайтов Hugo.&lt;/p&gt;
+&lt;p&gt;Общие файлы для тем Wowchemy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Репозиторий: &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/wowchemy/wowchemy-hugo-themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В качестве шаблона индивидуального сайта используется шаблон Hugo Academic Theme.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Демо-сайт: &lt;a href=&#34;https://academic-demo.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://academic-demo.netlify.app/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Репозиторий: &lt;a href=&#34;https://github.com/wowchemy/starter-hugo-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/wowchemy/starter-hugo-academic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;индивидуальный-сайт&#34;&gt;Индивидуальный сайт&lt;/h2&gt;
+&lt;p&gt;Доступен по ссылке &lt;a href=&#34;https://ngalacan.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ngalacan.github.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчетов</title>
+      <link>https://example.com/post/report_making/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/report_making/</guid>
+      <description>&lt;h2 id=&#34;структура-отчета&#34;&gt;Структура отчета&lt;/h2&gt;
+&lt;p&gt;Согласно ГОСТ 7.32-2001, любая научно-исследовательская работа должна обязательно
+содержать следующие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;титульный лист;&lt;/li&gt;
+&lt;li&gt;реферат;&lt;/li&gt;
+&lt;li&gt;введение;&lt;/li&gt;
+&lt;li&gt;основную часть;&lt;/li&gt;
+&lt;li&gt;заключение.
+Также ГОСТ рекомендует включить в работу и такие элементы:&lt;/li&gt;
+&lt;li&gt;список исполнителей;&lt;/li&gt;
+&lt;li&gt;содержание;&lt;/li&gt;
+&lt;li&gt;нормативные ссылки;&lt;/li&gt;
+&lt;li&gt;определения;&lt;/li&gt;
+&lt;li&gt;обозначения и сокращения;&lt;/li&gt;
+&lt;li&gt;список использованных источников;&lt;/li&gt;
+&lt;li&gt;приложения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;содержание-основных-элементов-отчета&#34;&gt;Содержание основных элементов отчета&lt;/h2&gt;
+&lt;h3 id=&#34;титульный-лист&#34;&gt;Титульный лист&lt;/h3&gt;
+&lt;p&gt;Первый лист работы оформляется строго по образцу, который обычно
+приводится в методических пособиях по вашему предмету. В нем не просто требуется
+указать такие элементы, как название образовательного учреждения, вид работы
+и сведения об исполнителе, но и расположить их в строгом соответствии со стандарта-
+ми.&lt;/p&gt;
+&lt;h3 id=&#34;реферат&#34;&gt;Реферат&lt;/h3&gt;
+&lt;p&gt;Реферат фактически является кратким представлением всего вашего отчета
+и содержит ряд статистических сведений. В нем нужно указать количество частей,
+страниц работы, иллюстраций, приложений, таблиц, использованных литературных
+источников и приложений. Здесь же приводится перечень ключевых слов работы
+и собственно текст реферата. Последний подразумевает основные элементы работы
+от поставленных целей до результатов и рекомендаций по их внедрению. В практике
+вузов в отчеты по лабораторным работам реферат обычно не включают.&lt;/p&gt;
+&lt;h3 id=&#34;введение&#34;&gt;Введение&lt;/h3&gt;
+&lt;p&gt;Во введении типовой лабораторной работы обычно прописывают цели
+проводимого исследования и задачи, выполнение которых поможет достичь постав-
+ленных целей. Пишется развернутое введение с доказательством актуальности и новизны изучаемой темы. Чтобы действительно провести исследование в той области, в которой, как говорится, еще не ступала нога человека, во введении вам понадобится привести оценку современного состояния рассматриваемой проблемы и обосновать необходимость ее решения.&lt;/p&gt;
+&lt;h3 id=&#34;основная-часть&#34;&gt;Основная часть&lt;/h3&gt;
+&lt;p&gt;Основная часть. Так как в разных вузах и в разных дисциплинах существуют свои
+тонкости проведения лабораторных работ, содержание основной части подробно
+описывают в соответствующих методичках. Важно, чтобы в этом разделе работы была
+отражена ее суть, описана методика и результаты проделанной работы.
+В основной части прописывают следующие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;цели проводимого исследования;&lt;/li&gt;
+&lt;li&gt;задачи, выполнение которых поможет достичь поставленных целей;&lt;/li&gt;
+&lt;li&gt;ход работы, в котором описываются выполненные действия;&lt;/li&gt;
+&lt;li&gt;прочие разделы, предусмотренные методическими материалами по изучаемой
+дисциплине.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;заключение&#34;&gt;Заключение&lt;/h3&gt;
+&lt;p&gt;В этой части работы вам потребуется сделать выводы по полученным в ходе лабораторной работы результатам. Для этого оцените, насколько полно выполнены
+поставленные задачи. В сложных работах могут присутствовать и другие элементы,
+например, рекомендации для дальнейшего применения результатов проведённой
+работы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>https://example.com/post/week3/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week3/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-очередная-неделя&#34;&gt;Как прошла очередная неделя?&lt;/h2&gt;
+&lt;p&gt;Неделя была похожей на все остальные. На прошедшей неделе были сделаны и сданы задания и лабораторные работы. Я виделся с друзьями, отдыхал.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еще одна моя неделя</title>
+      <link>https://example.com/post/week2/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week2/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-еще-одна-неделя&#34;&gt;Как прошла еще одна неделя?&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе были сделаны и сданы задания и лабораторные работы. Я ходил на учебу, виделся с друзьями, отдыхал. Совершенно обычная и непримечательная неделя.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;markdown&#34; srcset=&#34;
+               /post/markdown/markdown_hucfb3feed069a17f9d9f9bace2c0dabe0_10988_ae78109fbb84577af4175b9f29c9d434.webp 400w,
+               /post/markdown/markdown_hucfb3feed069a17f9d9f9bace2c0dabe0_10988_93013cf40115f4b7a1e9d88f973249ff.webp 760w,
+               /post/markdown/markdown_hucfb3feed069a17f9d9f9bace2c0dabe0_10988_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/markdown/markdown_hucfb3feed069a17f9d9f9bace2c0dabe0_10988_ae78109fbb84577af4175b9f29c9d434.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;467&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;общие-сведения&#34;&gt;Общие сведения&lt;/h1&gt;
+&lt;p&gt;Markdown — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций.&lt;/p&gt;
+&lt;h1 id=&#34;история&#34;&gt;История&lt;/h1&gt;
+&lt;p&gt;Первоначально создан в 2004 году Джоном Грубером и Аароном Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка Markdown преобразуют текст в формате Markdown в валидный, правильно построенный XHTML и заменяют левые угловые скобки («&amp;lt;») и амперсанды («&amp;amp;») на соответствующие коды сущностей. Первой реализацией Markdown стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков. Реализация на Perl распространяется по лицензии типа BSD. Реализации Markdown на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым.&lt;/p&gt;
+&lt;h1 id=&#34;синтаксис&#34;&gt;Синтаксис&lt;/h1&gt;
+&lt;h2 id=&#34;форматирование-текста&#34;&gt;Форматирование текста&lt;/h2&gt;
+&lt;p&gt;Чтобы создать заголовок, используйте знак #, например:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# This is heading 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## This is heading 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### This is heading 3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#### This is heading 4
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста полужирное начертание, заключите его в двойные
+звездочки:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is **bold**.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста курсивное начертание, заключите его в одинарные
+звездочки:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is *italic*
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста полужирное и курсивное начертание, заключите его
+в тройные звездочки:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This is text is both ***bold and italic***.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Блоки цитирования создаются с помощью символа &amp;gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; The drought had lasted now for ten million years, and the reign of
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the terrible lizards had long since ended. Here on the Equator,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;in the continent which would one day be known as Africa, the
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;battle for existence had reached a new climax of ferocity, and
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the victor was not yet in sight. In this barren and desiccated
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;land, only the small or the swift or the fierce could flourish,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;or even hope to survive.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Упорядоченный список можно отформатировать с помощью соответствующих цифр:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. First instruction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Sub-instruction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Sub-instruction
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Second instruction
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Упорядоченный (маркированный) список можно отформатировать с помощью звездочек или тире:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* List item 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* List item 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* List item 3
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;оформление-изображений&#34;&gt;Оформление изображений&lt;/h2&gt;
+&lt;p&gt;В Markdown вставить изображение в документ можно с помощью непосредственного указания адреса изображения. Синтаксис данной команды выглядит
+следующим образом:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;![Подпись к рисунку](/путь/к/изображению.jpg &amp;quot;Необязательная подсказка&amp;quot;){ #fig:fig1 width=70% }&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Здесь:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;в квадратных скобках указывается подпись к изображению;&lt;/li&gt;
+&lt;li&gt;в круглых скобках указывается URL-адрес или относительный путь изображения, а также (необязательно) всплывающую подсказку, заключённую
+в двойные или одиночные кавычки.&lt;/li&gt;
+&lt;li&gt;в фигурных скобках указывается идентификатор изображения (&lt;code&gt;#fig:fig1&lt;/code&gt;)
+для ссылки на него по тексту и размер изображения относительно ширины
+страницы (&lt;code&gt;width=90%&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ссылка на изображение оформляется следующим образом:
+(рис. &lt;code&gt;[-@fig:fig1]&lt;/code&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://example.com/post/week1/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week1/</guid>
+      <description>&lt;h2 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя?&lt;/h2&gt;
+&lt;p&gt;Эта неделя была похожей на все остальные. На прошедшей неделе я ходил в университет, выполнял задания и посвящал время учебе. Также на прошлой неделе я провел время с друзьями, гулял по городу, уделил время и себе. Неделя была продуктивной и спокойной.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями. Git.</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Github&#34; srcset=&#34;
+               /post/git/github_hu101417d05110e839f4b1f3d66f86c880_34883_fb2581e1d1d3068c9aa8c371ccb17493.webp 400w,
+               /post/git/github_hu101417d05110e839f4b1f3d66f86c880_34883_736ff3f0a6ee8bbc8c988eef3b230606.webp 760w,
+               /post/git/github_hu101417d05110e839f4b1f3d66f86c880_34883_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/git/github_hu101417d05110e839f4b1f3d66f86c880_34883_fb2581e1d1d3068c9aa8c371ccb17493.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;что-такое-системы-контроля-версий&#34;&gt;Что такое системы контроля версий?&lt;/h1&gt;
+&lt;p&gt;Системы контроля версий (Version Control System, VCS) применяются при работе нескольких человек над одним проектом.&lt;/p&gt;
+&lt;p&gt;В классических системах контроля версий используется централизованная модель, предполагающая наличие единого репозитория для хранения файлов. Выполнение большинства функций по управлению версиями осуществляется специальным сервером. Участник проекта (пользователь) перед началом работы посредством определённых команд получает нужную ему версию файлов. После внесения изменений, пользователь размещает новую версию в хранилище. При этом предыдущие версии не удаляются из центрального хранилища и к ним можно вернуться в любой момент. Сервер может сохранять не полную версию изменённых файлов, а производить так называемую дельта-компрессию — сохранять только изменения между последовательными версиями, что позволяет уменьшить объём хранимых данных.&lt;/p&gt;
+&lt;h1 id=&#34;система-контроля-версий-git&#34;&gt;Система контроля версий Git&lt;/h1&gt;
+&lt;p&gt;Система контроля версий Git представляет собой набор программ командной строки. Доступ к ним можно получить из терминала посредством ввода команды &lt;code&gt;git&lt;/code&gt; с различными опциями.&lt;/p&gt;
+&lt;p&gt;Благодаря тому, что Git является распределённой системой контроля версий, резервную копию локального хранилища можно сделать простым копированием или архивацией.&lt;/p&gt;
+&lt;h2 id=&#34;стандартные-команды-git&#34;&gt;Стандартные команды Git&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;git init&lt;/code&gt; - создание основного дерева репозитория&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git pull&lt;/code&gt; - получение обновлений (изменений) текущего дерева из центрального репозитория&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git push&lt;/code&gt; - отправка всех произведённых изменений локального
+дерева в центральный репозиторий&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git status&lt;/code&gt; - просмотр списка изменённых файлов в текущей
+директории&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git add .&lt;/code&gt; - добавить все изменённые и/или созданные файлы и/или
+каталоги&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git add имена_файлов&lt;/code&gt; - добавить конкретные изменённые и/или созданные файлы
+и/или каталоги&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git rm имена_файлов&lt;/code&gt; - удалить файл и/или каталог из индекса репозитория (при
+этом файл и/или каталог остаётся в локальной директории)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git commit -am &#39;Описание коммита&#39;&lt;/code&gt;- сохранить все добавленные изменения и все изменённые файлы&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
